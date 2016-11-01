@@ -11,5 +11,15 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "request": "^2.76.0"
+  },
+  "devDependencies": {
+    "del": "1.1.0",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-install": "^0.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.2.0",
+    "run-sequence": "^1.2.2"
   }
 }
